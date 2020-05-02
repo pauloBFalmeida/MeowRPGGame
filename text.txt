@@ -1,0 +1,51 @@
+00 Jeo: hello adventurer welcome to basic training, try typing meow
+01 Jeo: cool you already know the basics, let me teach you an interesting trick
+02 Jeo: the people here prefer to count the number of meows you speak instead of using numbers
+03 Jeo: try to say five
+04 Jeo: not exactly, try again
+05 Joe: good you did it, I think you are ready
+06 Jeo: it's time to choose your class
+07 Joe: 1- warrior 2- sorcerer 3-rogue
+08 Joe: now get these 50 coins and buy something at the store
+09 Rod: hey beggar, get out
+10 Rod: oh do you want to buy something?
+11 Rod: ok, how about some better clothes?
+12 Rod: 1- no(0) 2- normal(10) 3- fancy(30)
+13 Rod: and now how about a weapon?
+14 Rod: 1- no(0) 2- sword(25) 3- staff(25) 4- dagger(10)
+15 Rod: want some armor too?
+16 Rod: 1- no(0) 2- leather(15) 3- steel(30)
+17 Rod: what are you still doing here, get out
+18 -you leave the store and hear a lot of noise-
+19 -you see a street fight happening-
+20 Fig1: you stole my coins 
+21 Fig2: you are drunk old man, stop trying to start a fight
+22 -will you help 1- Fig1 or 2- Fig or 3- none?-
+23 -you join the old man, to help get his coins back-
+24 -the burglar drops a sack of coins and run-
+25 Fig1: thanks for helping me, here take 20 coins
+26 Fig2: I didn't steal anything, but i will fight you if you insist
+27 Fig1: you should have killed him, now get out of here, your useless
+28 -the guards approach you-
+29 Fig1: it was him, he is the murder
+30 -the guards escort you out of the city, and forbid you to go back-
+31 -you lose all of your belongings-
+32 -you wake up in hospital, feeling very faint-
+33 -you stand against the old man-
+34 -you feel a strong pain in your back, like sharp iron entering your body-
+35 -the thief runs off and you lose 4 life points-
+36 -the old man realizes he can't do much and leave-
+37 Fig2: thanks for the help, here you can keep my armors shoulder pad, you deserve it
+38 -there isn't much more for you in this city-
+39 -you leave this place and enter in the forest-
+40 -suddenly you are approached by-
+41 -a giant flaming dragon-
+42 -a ferocious boar-
+43 -you kill the wild animal, and get his flesh-
+44 -its the end of your adventure-
+45 -but the start of a new one for the animal that now loots your body-
+46 this is the end of the code
+47 you should definitely see the code, was so fun to make
+48 thanks for playing :3
+49 made by Paulo BF Almeida
+
